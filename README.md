@@ -47,7 +47,7 @@ Tools: Git, Docker, VS Code
 
 <h2>Contact me</h2>
   
-<a href="[www.linkedin.com/in/paul-de-mascarel-ab34b4236](https://www.linkedin.com/in/paul-de-mascarel-ab34b4236/)" target="_blank">
+<a href="https://www.linkedin.com/in/paul-de-mascarel-ab34b4236/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
