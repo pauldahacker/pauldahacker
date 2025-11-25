@@ -6,12 +6,63 @@ I am a [42](https://42network.org) student who finished the Common Core at [42 B
 
 **I am currently living in Istanbul, Türkiye.**
 
+---
 
 <h2>What I'm looking for</h2>
 
-I am passionate about many sides of programming: constructing complex logic for efficient algorithms, using mathematics to write elegant code that sparks beautiful visual experiences, exploring the art behind low-level systems... I enjoy projects that challenge both logic and creativity, especially in **advanced algorithms, graphics/game development, and Unix/low-level programming**. I’m also excited to continue exploring cybersecurity and expanding my experience in web and mobile development.
+I am passionate about many sides of programming: constructing complex logic for efficient algorithms, using mathematics to write elegant code that sparks beautiful visual experiences, exploring the art behind low-level systems...
 
-Currently transferring to 42 Istanbul, working on 
+I enjoy projects that challenge both logic and creativity, especially in **advanced algorithms, graphics/game development, and Unix/low-level programming**. I’m also excited to continue exploring cybersecurity and expanding my experience in web and mobile development.
+
+💼 Open to **internships**, **part-time work**, **collaborations**, **freelance work**, and **remote opportunities**
+
+---
+
+<h2>Projects I am proud of at 42</h2>
+
+- **[ft_transcendence]https://github.com/pauldahacker/transcendence**
+A full-stack multiplayer Pong game built as the final project of the 42 Common Core.
+Developed with Fastify (Node.js), TypeScript, Tailwind, and an SQLite-backed microservice architecture, the project combines gameplay, user management, modern web design, blockchain integration, and 3D graphics.
+
+- **[cub3D]https://github.com/pauldahacker/cub3d**
+A 3D graphics engine that uses raycasting to create a pseudo-3D environment from a 2D map built during the fourth milestone of the 42 Common Core.
+The engine casts rays from the player's position in different directions to determine wall distances and render the 3D scene. This technique was famously used in early 3D games like Wolfenstein 3D.
+
+- **[push_swap]https://github.com/pauldahacker/push_swap**
+A high-performance sorting algorithm built during the second milestone of the 42 Common Core.
+The goal is to sort a stack of integers the most efficiently using a set of limited operations, and the help of only one other stack.
+For minimal validation, we must sort 100 random numbers with < 700 operations. For maximum points, we must also sort 500 random numbers with < 5500 operations.
+I managed to make an algorithm inspired by quicksort which sorts 100 numbers in ≈ 625 operations and 500 numbers in ≈ 4800 operations!
+
+---
+
+<h2>Skills</h2>
+
+Languages: C, C++, TypeScript, JavaScript, Shell (Bash), Makefile
+Web: HTML, CSS, React, Node.js, Tailwind CSS
+Databases: MySQL, MariaDB, SQLite3
+Systems & Environments: Linux, Unix, Low-Level Programming
+Tools: Git, Docker, VS Code
+
+
+<h2>Contact me</h2>
+  
+<a href="www.linkedin.com/in/paul-de-mascarel-ab34b4236" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://wa.me/+33752037364" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="mailto:paul2mascarel@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="tel:+90 501 658 56 00">
+  <img src="https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=ios&logoColor=white" />
+</a>
+
 <!--
 **pauldahacker/pauldahacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
