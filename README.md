@@ -20,15 +20,15 @@ I enjoy projects that challenge both logic and creativity, especially in **advan
 
 <h2>Projects I am proud of at 42</h2>
 
-- **[ft_transcendence]https://github.com/pauldahacker/transcendence**
+- **[ft_transcendence](https://github.com/pauldahacker/transcendence)**
 A full-stack multiplayer Pong game built as the final project of the 42 Common Core.
 Developed with Fastify (Node.js), TypeScript, Tailwind, and an SQLite-backed microservice architecture, the project combines gameplay, user management, modern web design, blockchain integration, and 3D graphics.
 
-- **[cub3D]https://github.com/pauldahacker/cub3d**
+- **[cub3D](https://github.com/pauldahacker/cub3d)**
 A 3D graphics engine that uses raycasting to create a pseudo-3D environment from a 2D map built during the fourth milestone of the 42 Common Core.
 The engine casts rays from the player's position in different directions to determine wall distances and render the 3D scene. This technique was famously used in early 3D games like Wolfenstein 3D.
 
-- **[push_swap]https://github.com/pauldahacker/push_swap**
+- **[push_swap](https://github.com/pauldahacker/push_swap)**
 A high-performance sorting algorithm built during the second milestone of the 42 Common Core.
 The goal is to sort a stack of integers the most efficiently using a set of limited operations, and the help of only one other stack.
 For minimal validation, we must sort 100 random numbers with < 700 operations. For maximum points, we must also sort 500 random numbers with < 5500 operations.
@@ -47,7 +47,7 @@ Tools: Git, Docker, VS Code
 
 <h2>Contact me</h2>
   
-<a href="www.linkedin.com/in/paul-de-mascarel-ab34b4236" target="_blank">
+<a href="[www.linkedin.com/in/paul-de-mascarel-ab34b4236](https://www.linkedin.com/in/paul-de-mascarel-ab34b4236/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
