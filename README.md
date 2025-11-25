@@ -1,10 +1,10 @@
-## Hi! My name is Paul de Mascarel
+## Hi! I'm Paul de Mascarel
 
-I am a [42](https://42network.org) student who finished the Common Core at [42 Barcelona](https://www.42barcelona.com).
+I'm a [42](https://42network.org) student who finished the Common Core at [42 Barcelona](https://www.42barcelona.com).
 
 [![pde-masc's 42 stats](https://badge.mediaplus.ma/binary/pde-masc?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-**I am currently living in Istanbul, Türkiye.**
+**I'm currently living in Istanbul, Türkiye.**
 
 ---
 
@@ -21,16 +21,19 @@ I enjoy projects that challenge both logic and creativity, especially in advance
 <h2>My favourite projects at 42</h2>
 
 - **[ft_transcendence](https://github.com/pauldahacker/transcendence)**
+
 A full-stack multiplayer Pong game built as the final project of the 42 Common Core.
 
 Developed with Fastify (Node.js), TypeScript, Tailwind, and an SQLite microservice architecture, the project combines gameplay, user management, modern web design, blockchain integration, and 3D graphics.
 
 - **[cub3D](https://github.com/pauldahacker/cub3d)**
+
 A 3D graphics engine that uses raycasting to create a pseudo-3D environment from a 2D map.
 
 The engine casts rays from the player's position in different directions to determine wall distances and render the 3D scene.
 
 - **[push_swap](https://github.com/pauldahacker/push_swap)**
+
 A high-performance sorting algorithm.
 
 The goal is to sort a stack of integers the most efficiently using a set of limited operations, and the help of only one other stack.
