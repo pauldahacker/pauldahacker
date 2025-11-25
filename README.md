@@ -1,9 +1,8 @@
 ## Hi! My name is Paul de Mascarel
 
-I am a [![42]](https://42network.org) student
+I am a [42](https://42network.org) student who finished the Common Core at [42 Barcelona](https://www.42barcelona.com).
 
-[![42 Barcelona](https://img.shields.io/badge/42%20Barcelona-Student-informational?style=for-the-badge)](https://www.42barcelona.com)
-[![42 Network](https://img.shields.io/badge/42%20Network-Member-informational?style=for-the-badge)](https://42network.org)
+Currently living in Istanbul, Turkey.
 
 [![pde-masc's 42 stats](https://badge.mediaplus.ma/binary/pde-masc?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
