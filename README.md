@@ -22,16 +22,19 @@ I enjoy projects that challenge both logic and creativity, especially in advance
 
 - **[ft_transcendence](https://github.com/pauldahacker/transcendence)**
 A full-stack multiplayer Pong game built as the final project of the 42 Common Core.
-Developed with Fastify (Node.js), TypeScript, Tailwind, and an SQLite-backed microservice architecture, the project combines gameplay, user management, modern web design, blockchain integration, and 3D graphics.
+
+Developed with Fastify (Node.js), TypeScript, Tailwind, and an SQLite microservice architecture, the project combines gameplay, user management, modern web design, blockchain integration, and 3D graphics.
 
 - **[cub3D](https://github.com/pauldahacker/cub3d)**
-A 3D graphics engine that uses raycasting to create a pseudo-3D environment from a 2D map built during the fourth milestone of the 42 Common Core.
-The engine casts rays from the player's position in different directions to determine wall distances and render the 3D scene. This technique was famously used in early 3D games like Wolfenstein 3D.
+A 3D graphics engine that uses raycasting to create a pseudo-3D environment from a 2D map.
+
+The engine casts rays from the player's position in different directions to determine wall distances and render the 3D scene.
 
 - **[push_swap](https://github.com/pauldahacker/push_swap)**
-A high-performance sorting algorithm built during the second milestone of the 42 Common Core.
+A high-performance sorting algorithm.
+
 The goal is to sort a stack of integers the most efficiently using a set of limited operations, and the help of only one other stack.
-For minimal validation, we must sort 100 random numbers with < 700 operations. For maximum points, we must also sort 500 random numbers with < 5500 operations.
+For minimum points, we must sort 100 random numbers with < 700 operations. For maximum points, we must additionally sort 500 random numbers with < 5500 operations.
 I managed to make an algorithm inspired by quicksort which sorts 100 numbers in ≈ 625 operations and 500 numbers in ≈ 4800 operations!
 
 ---
