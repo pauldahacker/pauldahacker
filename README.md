@@ -4,12 +4,16 @@ I am a [42](https://42network.org) student who finished the Common Core at [42 B
 
 [![pde-masc's 42 stats](https://badge.mediaplus.ma/binary/pde-masc?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-**I am currently living in Istanbul, Turkey.**
-
----
-<h2>What I am doing</h2>
+**I am currently living in Istanbul, Türkiye.**
 
 
+<h2>What I'm looking for</h2>
+
+I am passionate about many facets of programming: from constructing the most impenetrable logic to find efficient algorithms, from using mathematics to write elegant code and spark beautiful visual experiences, to exploring the art of low-level systems.
+
+I enjoy projects that challenge both logic and creativity, especially in **advanced algorithms, graphics/game development, and Unix/low-level programming**. I’m also excited to continue exploring cybersecurity and expanding my experience in web and mobile development.
+
+Currently transferring to 42 Istanbul, working on 
 <!--
 **pauldahacker/pauldahacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
