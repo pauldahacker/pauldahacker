@@ -18,7 +18,7 @@ I enjoy projects that challenge both logic and creativity, especially in **advan
 
 ---
 
-<h2>Projects I am proud of at 42</h2>
+<h2>My favourite projects at 42</h2>
 
 - **[ft_transcendence](https://github.com/pauldahacker/transcendence)**
 A full-stack multiplayer Pong game built as the final project of the 42 Common Core.
@@ -39,9 +39,13 @@ I managed to make an algorithm inspired by quicksort which sorts 100 numbers in 
 <h2>Skills</h2>
 
 Languages: C, C++, TypeScript, JavaScript, Shell (Bash), Makefile
+
 Web: HTML, CSS, React, Node.js, Tailwind CSS
+
 Databases: MySQL, MariaDB, SQLite3
+
 Systems & Environments: Linux, Unix, Low-Level Programming
+
 Tools: Git, Docker, VS Code
 
 
@@ -51,17 +55,21 @@ Tools: Git, Docker, VS Code
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+
 <a href="https://wa.me/+33752037364" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
+
 
 <a href="mailto:paul2mascarel@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+
 <a href="tel:+90 501 658 56 00">
   <img src="https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </a>
+
 
 <!--
 **pauldahacker/pauldahacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
