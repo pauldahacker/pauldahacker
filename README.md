@@ -10,7 +10,7 @@ I am a [42](https://42network.org) student who finished the Common Core at [42 B
 
 <h2>What I'm looking for</h2>
 
-I am passionate about many sides of programming: constructing complex logic for efficient algorithms, using mathematics to write elegant code that sparks beautiful visual experiences, exploring the art behind low-level systems...
+I am passionate about many sides of programming: from using mathematics to construct the most impenetrable logic for efficient algorithms and beautiful visual experiences, to exploring the depths and the art of low-level systems.
 
 I enjoy projects that challenge both logic and creativity, especially in advanced algorithms, graphics/game development, and Unix/low-level programming. I’m also excited to continue exploring cybersecurity and expanding my experience in web and mobile development.
 
