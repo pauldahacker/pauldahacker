@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there! My name is Paul de Mascarel
+
+[![42 Barcelona](https://img.shields.io/badge/42%20Barcelona-Student-informational?style=for-the-badge)](https://www.42barcelona.com)
+[![42 Network](https://img.shields.io/badge/42%20Network-Member-informational?style=for-the-badge)](https://42network.org)
+
+[![pde-masc's 42 stats](https://badge.mediaplus.ma/greenbinary/pde-masc?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 <!--
 **pauldahacker/pauldahacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
