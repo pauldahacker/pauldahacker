@@ -4,8 +4,6 @@ I'm a [42](https://42network.org) student who finished the Common Core at [42 Ba
 
 [![pde-masc's 42 stats](https://badge.mediaplus.ma/binary/pde-masc?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-**I'm currently living in Istanbul, Türkiye.**
-
 ---
 
 <h2>What I'm looking for</h2>
