@@ -8,15 +8,13 @@ I'm a [42](https://42network.org) student who finished the Common Core at [42 Ba
 
 <h2>What I'm looking for</h2>
 
-I'm passionate about many sides of programming: from using mathematics to build efficient, elegant algorithms and visual experiences, to exploring the depths and art of low-level systems.
-
 I enjoy projects that challenge both logic and creativity, especially in advanced algorithms, graphics/game development, and Unix/low-level programming. I’m also excited to continue exploring cybersecurity and expanding my experience in web and mobile development.
 
 💼 **Open to internships, part-time work, collaborations, freelance work, and remote opportunities**
 
 ---
 
-<h2>My favourite projects at 42</h2>
+<h2>Highlighted Projects</h2>
 
 - **[ft_transcendence](https://github.com/pauldahacker/transcendence)**
 
