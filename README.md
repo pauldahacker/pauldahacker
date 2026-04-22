@@ -8,7 +8,7 @@ I'm a [42](https://42network.org) student who finished the Common Core at [42 Ba
 
 <h2>What I'm looking for</h2>
 
-Currently sharpening my skills in web/full-stack development and exploring cybersecurity.
+I am currently sharpening my skills in web/full-stack development and exploring cybersecurity with projects from 42
 
 **Open to internships, part-time work, collaborations, freelance work, and remote opportunities**
 
