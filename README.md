@@ -1,6 +1,6 @@
 ## Hi! I'm Paul de Mascarel
 
-I'm a [42](https://42network.org) student who finished the Common Core at [42 Barcelona](https://www.42barcelona.com).
+[42](https://42network.org) student who finished the Common Core at [42 Barcelona](https://www.42barcelona.com) and currently in the Paris campus.
 
 [![pde-masc's 42 stats](https://badge.mediaplus.ma/binary/pde-masc?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
