@@ -5,6 +5,7 @@
 [![pde-masc's 42 stats](https://badge.mediaplus.ma/binary/pde-masc?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ---
+<h2> Looking for ... </h2>
 
 I am currently sharpening my skills in web/full-stack development and exploring cybersecurity with projects from 42
 
