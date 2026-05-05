@@ -1,12 +1,10 @@
-## Hi! I'm Paul de Mascarel
+<h1> Hi! I'm Paul de Mascarel </h1>
 
 [42](https://42network.org) student who finished the Common Core at [42 Barcelona](https://www.42barcelona.com) and currently in the Paris campus.
 
 [![pde-masc's 42 stats](https://badge.mediaplus.ma/binary/pde-masc?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ---
-
-<h2>What I'm looking for</h2>
 
 I am currently sharpening my skills in web/full-stack development and exploring cybersecurity with projects from 42
 
