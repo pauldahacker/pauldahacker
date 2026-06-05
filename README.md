@@ -23,17 +23,17 @@ Capture-the-Flag-style project where in a team of 2, we had to find 14 different
   
 Implemented core C standard library functions in x86-64 assembly language.
 
-- **[ft_transcendence](https://github.com/pauldahacker/transcendence)**
-
-A full-stack multiplayer Pong game built as the final project of the 42 Common Core.
-
-Developed with Fastify (Node.js), TypeScript, Tailwind, and an SQLite microservice architecture, the project combines gameplay, user management, modern web design, blockchain integration, and 3D graphics.
-
 - **[camagru](https://github.com/pauldahacker/camagru)**
 
 Created a web application allowing users to make basic photo and video editing using the webcam and some predefined images
 
 Developed with Docker containers, PostgreSQL database, a native PHP backend, and a bit of JavaScript for the frontend
+
+- **[ft_transcendence](https://github.com/pauldahacker/transcendence)**
+
+A full-stack multiplayer Pong game built as the final project of the 42 Common Core.
+
+Developed with Fastify (Node.js), TypeScript, Tailwind, and an SQLite microservice architecture, the project combines gameplay, user management, modern web design, blockchain integration, and 3D graphics.
 
 - **[cub3D](https://github.com/pauldahacker/cub3d)**
 
