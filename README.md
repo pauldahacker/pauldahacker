@@ -35,6 +35,12 @@ Created a web application allowing users to make basic photo and video editing u
 
 Developed with Docker containers, PostgreSQL database, a native PHP backend, and a bit of JavaScript for the frontend
 
+- **[cub3D](https://github.com/pauldahacker/cub3d)**
+
+A 3D graphics engine coded in C that uses raycasting to create a pseudo-3D environment from a 2D map.
+
+The engine casts rays from the player's position in different directions to determine wall distances and render the 3D scene.
+
 
 ---
 
