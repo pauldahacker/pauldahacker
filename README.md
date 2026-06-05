@@ -39,15 +39,15 @@ I managed to make an algorithm inspired by quicksort which sorts 100 numbers in 
 
 <h2>Skills</h2>
 
-Languages: C, C++, TypeScript, JavaScript, Shell (Bash), Makefile
+Backend & Databases: PHP, PostgreSQL, SQL, Node.js
 
-Web: HTML, CSS, React, Node.js, Tailwind CSS
+Frontend Development: JavaScript, HTML, CSS, React, Tailwind CSS
 
-Databases: MySQL, MariaDB, SQLite3
+DevOps & Environment: Docker, Nginx, Linux/Unix, Git, Shell (Bash)
 
-Systems & Environments: Linux, Unix, Low-Level Programming
+Systems Foundations: C, C++, Makefile
 
-Tools: Git, Docker, VS Code
+Familiar: TypeScript, MySQL, MariaDB, SQLite3
 
 
 <h2>Contact me</h2>
@@ -70,19 +70,3 @@ Tools: Git, Docker, VS Code
 <a href="tel:+90 501 658 56 00">
   <img src="https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </a>
-
-
-<!--
-**pauldahacker/pauldahacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
