@@ -15,12 +15,6 @@ I am currently sharpening my skills in web/full-stack development and exploring 
 
 <h2>Recent Projects</h2>
 
-- **[camagru](https://github.com/pauldahacker/camagru)**
-
-Created a web application allowing users to make basic photo and video editing using the webcam and some predefined images
-
-Developed with Docker containers, PostgreSQL database, a native PHP backend, and a bit of JavaScript for the frontend
-
 - **[darkly](https://github.com/pauldahacker/darkly)**
 
 Capture-the-Flag-style project where in a team of 2, we had to find 14 different web vulnerabilities in a website using OWASP as our bible.
@@ -35,11 +29,12 @@ A full-stack multiplayer Pong game built as the final project of the 42 Common C
 
 Developed with Fastify (Node.js), TypeScript, Tailwind, and an SQLite microservice architecture, the project combines gameplay, user management, modern web design, blockchain integration, and 3D graphics.
 
-- **[cub3D](https://github.com/pauldahacker/cub3d)**
+- **[camagru](https://github.com/pauldahacker/camagru)**
 
-A 3D graphics engine that uses raycasting to create a pseudo-3D environment from a 2D map.
+Created a web application allowing users to make basic photo and video editing using the webcam and some predefined images
 
-The engine casts rays from the player's position in different directions to determine wall distances and render the 3D scene.
+Developed with Docker containers, PostgreSQL database, a native PHP backend, and a bit of JavaScript for the frontend
+
 
 ---
 
