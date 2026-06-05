@@ -23,7 +23,7 @@ Developed with Docker containers, PostgreSQL database, a native PHP backend, and
 
 - **[darkly](https://github.com/pauldahacker/darkly)**
 
-Capture-the-Flag-style project where in a team of 2, we had to find 14 different web vulnerabilities in a website using OWASP as our bible.****
+Capture-the-Flag-style project where in a team of 2, we had to find 14 different web vulnerabilities in a website using OWASP as our bible.
 
 - **[libasm](https://github.com/pauldahacker/libasm)**
   
