@@ -15,11 +15,19 @@ I am currently sharpening my skills in web/full-stack development and exploring 
 
 <h2>Recent Projects</h2>
 
-- **[libasm](https://github.com/pauldahacker/libasm)**
-Implemented core C standard library functions in x86-64 assembly language.
+- **[camagru](https://github.com/pauldahacker/camagru)**
+
+Created a web application allowing users to make basic photo and video editing using the webcam and some predefined images
+
+Developed with Docker containers, PostgreSQL database, a native PHP backend, and a bit of JavaScript for the frontend
 
 - **[darkly](https://github.com/pauldahacker/darkly)**
-Capture-the-Flag-style project where in a team of 2, we had to find 14 different web vulnerabilities in a website using OWASP as our bible.
+
+Capture-the-Flag-style project where in a team of 2, we had to find 14 different web vulnerabilities in a website using OWASP as our bible.****
+
+- **[libasm](https://github.com/pauldahacker/libasm)**
+  
+Implemented core C standard library functions in x86-64 assembly language.
 
 - **[ft_transcendence](https://github.com/pauldahacker/transcendence)**
 
@@ -32,14 +40,6 @@ Developed with Fastify (Node.js), TypeScript, Tailwind, and an SQLite microservi
 A 3D graphics engine that uses raycasting to create a pseudo-3D environment from a 2D map.
 
 The engine casts rays from the player's position in different directions to determine wall distances and render the 3D scene.
-
-- **[push_swap](https://github.com/pauldahacker/push_swap)**
-
-A high-performance sorting algorithm.
-
-The goal is to sort a stack of integers the most efficiently using a set of limited operations, and the help of only one other stack.
-For minimum points, we must sort 100 random numbers with < 700 operations. For maximum points, we must additionally sort 500 random numbers with < 5500 operations.
-I managed to make an algorithm inspired by quicksort which sorts 100 numbers in ≈ 625 operations and 500 numbers in ≈ 4800 operations!
 
 ---
 
