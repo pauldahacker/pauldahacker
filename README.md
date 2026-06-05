@@ -67,6 +67,6 @@ Familiar: TypeScript, MySQL, MariaDB, SQLite3
 </a>
 
 
-<a href="tel:+90 501 658 56 00">
+<a href="tel:+33752037364">
   <img src="https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </a>
