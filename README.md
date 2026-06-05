@@ -13,7 +13,13 @@ I am currently sharpening my skills in web/full-stack development and exploring 
 
 ---
 
-<h2>Best Projects</h2>
+<h2>Recent Projects</h2>
+
+- **[libasm](https://github.com/pauldahacker/libasm)**
+Implemented core C standard library functions in x86-64 assembly language.
+
+- **[darkly](https://github.com/pauldahacker/darkly)**
+Capture-the-Flag-style project where in a team of 2, we had to find 14 different web vulnerabilities in a website using OWASP as our bible.
 
 - **[ft_transcendence](https://github.com/pauldahacker/transcendence)**
 
