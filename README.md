@@ -27,7 +27,7 @@ Implemented core C standard library functions in x86-64 assembly language.
 
 Created a web application allowing users to make basic photo and video editing using the webcam and some predefined images
 
-Developed with Docker containers, PostgreSQL database, a native PHP backend, and a bit of JavaScript for the frontend
+Developed with Docker containers, PostgreSQL database, a native PHP backend, and a bit of JavaScript
 
 - **[ft_transcendence](https://github.com/pauldahacker/transcendence)**
 
